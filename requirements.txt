@@ -1,0 +1,7 @@
+transformers
+torch
+ipykernel
+datasets
+accelerate>=0.26.0
+matplotlib
+ipywidgets
